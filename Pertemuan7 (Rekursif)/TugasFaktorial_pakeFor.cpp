@@ -6,7 +6,7 @@ int main(int argc, char** argv){
     int hasil = 1;
 
     cout << "Program Faktorial dengan Perulangan (for)" << endl;
-    cout << "===================================" << endl;
+    cout << "====================== =============" << endl;
     cout << endl;
     cout << "Masukkan Bilangan Bulat (integer)" << endl;
     cout << "Bilangan = "; cin >> bil;
